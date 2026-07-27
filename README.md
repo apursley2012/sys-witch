@@ -11,7 +11,7 @@ Date: June 2026
 
 **An expanded system-witch portfolio with a richer magical interface, technical structure, and upgraded cyber-occult atmosphere.**
 
-[![Aurora Cosmos Screenshot Gallery](./images/screenshots/sys.witch-v2-screenshot-01.png)](./images/screenshots/sys.witch-v2-screenshot-01.png)
+[![Aurora Cosmos Screenshot Gallery](./images/screenshots/sys.witch-v2-screenshot-01.jpeg)](./images/screenshots/sys.witch-v2-screenshot-01.jpeg)
 
 [Open the live demo](https://apursley2012.github.io/sys.witch-v2/) · [Browse the full theme collection](https://github.com/apursley2012/github-pages-themes) · [Report an issue or request an addition](https://github.com/apursley2012/sys.witch-v2/issues/new/choose)
 
@@ -107,7 +107,7 @@ Click any preview link or image to open the full-size file.
 Click any preview link or image to open the full-size file.
 
 <p align="center">
-  <img src="./images/screenshots/sys.witch-v2-screenshot-01.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 1">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-01.jpeg" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 1">
   &nbsp;&nbsp;
   <img src="./images/screenshots/sys.witch-v2-screenshot-02.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 2">
 </p>

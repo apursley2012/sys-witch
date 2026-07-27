@@ -108,55 +108,54 @@ Click any preview link or image to open the full-size file.
 
 <p align="center">
   <img src="./images/screenshots/sys.witch-v2-screenshot-01.jpeg" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 1">
+</p>
+<p align="center">
   &nbsp;&nbsp;
   <img src="./images/screenshots/sys.witch-v2-screenshot-02.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 2">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-03.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 3">
 </p>
 <p align="center">
-  <img src="./images/screenshots/sys.witch-v2-screenshot-03.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 3">
   &nbsp;&nbsp;
   <img src="./images/screenshots/sys.witch-v2-screenshot-04.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 4">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-05.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 5">
 </p>
 <p align="center">
-  <img src="./images/screenshots/sys.witch-v2-screenshot-05.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 5">
   &nbsp;&nbsp;
   <img src="./images/screenshots/sys.witch-v2-screenshot-06.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 6">
-</p>
-<p align="center">
   <img src="./images/screenshots/sys.witch-v2-screenshot-07.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 7">
+</p>
+<p align="center>
   &nbsp;&nbsp;
   <img src="./images/screenshots/sys.witch-v2-screenshot-08.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 8">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-09.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 9">
 </p>
 <p align="center">
-  <img src="./images/screenshots/sys.witch-v2-screenshot-09.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 9">
   &nbsp;&nbsp;
   <img src="./images/screenshots/sys.witch-v2-screenshot-10.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 10">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-11.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 11">
 </p>
 <p align="center">
-  <img src="./images/screenshots/sys.witch-v2-screenshot-11.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 11">
   &nbsp;&nbsp;
   <img src="./images/screenshots/sys.witch-v2-screenshot-12.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 12">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-13.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 13">
 </p>
 <p align="center">
-  <img src="./images/screenshots/sys.witch-v2-screenshot-13.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 13">
   &nbsp;&nbsp;
   <img src="./images/screenshots/sys.witch-v2-screenshot-14.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 14">
-</p>
-<p align="center">
   <img src="./images/screenshots/sys.witch-v2-screenshot-15.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 15">
+<p align="center">
   &nbsp;&nbsp;
   <img src="./images/screenshots/sys.witch-v2-screenshot-16.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 16">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-17.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 17">
 </p>
 <p align="center">
-  <img src="./images/screenshots/sys.witch-v2-screenshot-17.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 17">
   &nbsp;&nbsp;
   <img src="./images/screenshots/sys.witch-v2-screenshot-18.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 18">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-19.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 19">
 </p>
 <p align="center">
-  <img src="./images/screenshots/sys.witch-v2-screenshot-19.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 19">
   &nbsp;&nbsp;
   <img src="./images/screenshots/sys.witch-v2-screenshot-20.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 20">
-</p>
-<p align="center">
   <img src="./images/screenshots/sys.witch-v2-screenshot-21.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 21">
 </p>
 
